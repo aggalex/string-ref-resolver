@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.aggalex.stringrefresolver.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.aggalex.stringrefresolver.MyBundle
 
 class MyProjectService(project: Project) {
 

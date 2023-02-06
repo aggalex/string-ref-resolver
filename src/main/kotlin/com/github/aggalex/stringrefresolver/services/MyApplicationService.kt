@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.aggalex.stringrefresolver.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.aggalex.stringrefresolver.MyBundle
 
 class MyApplicationService {
 
